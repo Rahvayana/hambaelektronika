@@ -27,7 +27,7 @@
           </div>
        </div>
        <!-- Slide 1 -->
-       <div class="slide slide-1" style="background-image:url('img/slide1.jpg')">
+       <div class="slide slide-1" style="background-image:url('img/slider1.jpg')">
           <div class="slide__bg"></div>
           <div class="slide__content">
               <div class="slide__overlay">
@@ -43,7 +43,7 @@
           </div>
        </div>
        <!-- Slide 2 -->
-       <div class="slide slide-2" style="background-image:url('img/slide2.jpg')">
+       <div class="slide slide-2" style="background-image:url('img/slider2.jpg')">
           <div class="slide__bg"></div>
           <div class="slide__content">
               <div class="slide__overlay">
