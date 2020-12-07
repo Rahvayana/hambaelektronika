@@ -83,8 +83,8 @@
                         <img src="img/service1.jpg" class="img-responsive" alt="">
                      </div>
                      <div class="info">
-                        <h4>Exotic Pets</h4>
-                        <p>Nulla vel metus scelerisque ante sollicitudinlorem ipsuet commodo. Cras purus odio, vestibulum in vulputate a Imperdiet interdum donec eget metus auguen unc vel lorem.</p>
+                        <h4>Laptop & Komputer</h4>
+                        <p>Kami memiliki beragam jenis laptop dari berbagai merk yang terkenal di dunia, semuanya asli dan bergaransi langsung dari pabriknya.</p>
                         <!-- Button-->
                         <a class="btn" href="services-single.html">Read More</a>
                      </div>
@@ -102,8 +102,8 @@
                         <img src="img/service2.jpg" class="img-responsive" alt="">
                      </div>
                      <div class="info">
-                        <h4>Vet Services</h4>
-                        <p>Nulla vel metus scelerisque ante sollicitudinlorem ipsuet commodo. Cras purus odio, vestibulum in vulputate a Imperdiet interdum donec eget metus auguen unc vel lorem.</p>
+                        <h4>Printer</h4>
+                        <p>Kami memiliki berbagai macam printer dari berbagai macam merk printer di Indonesia, selain printer kami juga memiliki spare partnya apabila pembeli membutuhkannya.</p>
                         <!-- Button-->
                         <a class="btn" href="services-single.html">Read More</a>
                      </div>
@@ -121,8 +121,8 @@
                         <img src="img/service3.jpg" class="img-responsive" alt="">
                      </div>
                      <div class="info">
-                        <h4>Great Products</h4>
-                        <p>Nulla vel metus scelerisque ante sollicitudinlorem ipsuet commodo. Cras purus odio, vestibulum in vulputate a Imperdiet interdum donec eget metus auguen unc vel lorem.</p>
+                        <h4>Part Komputer</h4>
+                        <p>Selain berjualan Komputer kami juga berjualan part komputer apabila kalian ingin merakit komputer atau mau dirakitkan kami siap membantu anda.</p>
                         <!-- Button-->
                         <a class="btn" href="services-single.html">Read More</a>
                      </div>
@@ -140,8 +140,8 @@
                         <img src="img/service4.jpg" class="img-responsive" alt="">
                      </div>
                      <div class="info">
-                        <h4>Pet Hotel</h4>
-                        <p>Nulla vel metus scelerisque ante sollicitudinlorem ipsuet commodo. Cras purus odio, vestibulum in vulputate a Imperdiet interdum donec eget metus auguen unc vel lorem.</p>
+                        <h4>Services</h4>
+                        <p>Kami juga menyediakan jasa service apabila kalian membutuhkannya, kami melayani servis mulai dari laptop & komputer, printer dan lain-lain.</p>
                         <!-- Button-->
                         <a class="btn" href="services-single.html">Read More</a>
                      </div>
@@ -159,8 +159,8 @@
                         <img src="img/service5.jpg" class="img-responsive" alt="">
                      </div>
                      <div class="info">
-                        <h4>Dog Walking</h4>
-                        <p>Nulla vel metus scelerisque ante sollicitudinlorem ipsuet commodo. Cras purus odio, vestibulum in vulputate a Imperdiet interdum donec eget metus auguen unc vel lorem.</p>
+                        <h4>Cek Service</h4>
+                        <p>Apabila anda memiliki barang yang diservis ditoko kami, kalian bisa mengeceknya disini hanya perlu memasukkan nomor id struk servis kalian.</p>
                         <!-- Button-->
                         <a class="btn" href="services-single.html">Read More</a>
                      </div>
@@ -197,7 +197,7 @@
 <div class="row margin1 text-center">
    <h2>Mengapa Harus Kami</h2>
    <!-- item 1 -->
-   <div class="features col-lg-3 col-sm-6 col-xs-6">
+   <div class="features col-lg-3 col-sm-6 col-xs-12">
       <div class="col-xs-12 big-icon">
          <!-- icon -->
          <i class="flaticon-smartphone"></i>
@@ -209,7 +209,7 @@
    </div>
    <!-- /col-md-3 -->
    <!-- item 2 -->
-   <div class="features col-lg-3 col-sm-6 col-xs-6">
+   <div class="features col-lg-3 col-sm-6 col-xs-12">
       <div class="col-xs-12 big-icon">
          <!-- icon -->
          <i class="flaticon-laptop"></i>
@@ -221,7 +221,7 @@
    </div>
    <!-- /col-md-3 -->
    <!-- item 3 -->
-   <div class="features col-lg-3 col-sm-6 col-xs-6">
+   <div class="features col-lg-3 col-sm-6 col-xs-12">
       <div class="col-xs-12 big-icon">
          <!-- icon -->
          <i class="flaticon-computer"></i>
@@ -233,7 +233,7 @@
    </div>
    <!-- /col-md-3 -->
    <!-- item 1 -->
-   <div class="features col-lg-3 col-sm-6 col-xs-6">
+   <div class="features col-lg-3 col-sm-6 col-xs-12">
       <div class="col-xs-12 big-icon">
          <!-- icon -->
          <i class="flaticon-keyboard"></i>
@@ -294,8 +294,8 @@
 
 <!-- /Section ends -->
 <!-- callout-->
-<div class="text-center bg-darkcolor" style="padding: 10px; margin: 10px;">
-   <h3>DAFTAR MERK</h3>
+<div class="text-center bg-lightcolor" style="padding: 10px; margin: 10px;">
+   <h3>~DAFTAR MERK~</h3>
    <img src="{{asset('img/asus.png')}}" class="logo-merk" alt="">
    <img src="{{asset('img/samsung.png')}}" class="logo-merk" alt="">
    <img src="{{asset('img/lenovo.png')}}" class="logo-merk" alt="">
