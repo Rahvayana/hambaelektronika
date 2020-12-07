@@ -80,7 +80,7 @@
                   <div class="icon">
                      <!-- icon -->
                      <div class="image">
-                        <img src="img/service1.jpg" class="img-responsive" alt="">
+                        <img src="img/laptop.jpg" class="img-responsive" alt="">
                      </div>
                      <div class="info">
                         <h4>Laptop & Komputer</h4>
@@ -99,7 +99,7 @@
                   <div class="icon">
                      <!-- icon -->
                      <div class="image">
-                        <img src="img/service2.jpg" class="img-responsive" alt="">
+                        <img src="img/printer.jpg" class="img-responsive" alt="">
                      </div>
                      <div class="info">
                         <h4>Printer</h4>
@@ -118,7 +118,7 @@
                   <div class="icon">
                      <!-- icon -->
                      <div class="image">
-                        <img src="img/service3.jpg" class="img-responsive" alt="">
+                        <img src="img/part.jpg" class="img-responsive" alt="">
                      </div>
                      <div class="info">
                         <h4>Part Komputer</h4>
@@ -137,7 +137,7 @@
                   <div class="icon">
                      <!-- icon -->
                      <div class="image">
-                        <img src="img/service4.jpg" class="img-responsive" alt="">
+                        <img src="img/service.jpg" class="img-responsive" alt="">
                      </div>
                      <div class="info">
                         <h4>Services</h4>
@@ -156,7 +156,7 @@
                   <div class="icon">
                      <!-- icon -->
                      <div class="image">
-                        <img src="img/service5.jpg" class="img-responsive" alt="">
+                        <img src="img/cek_service.jpg" class="img-responsive" alt="">
                      </div>
                      <div class="info">
                         <h4>Cek Service</h4>
