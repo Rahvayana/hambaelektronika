@@ -26,7 +26,15 @@ Last change: 13th june 2018
 ===========================
   General and Typography
 ============================ */
-
+.font-fitur{
+    font-size: 10px;
+    line-height: 15px;
+}
+.logo-merk{
+    width: 30%;
+    margin: 10px;
+    text-shadow: 2px 2px white;
+}
 html {
     width: 100%;
     height: 100%;
@@ -1512,7 +1520,7 @@ footer a {
 
 section {
     background: #fff;
-    padding: 100px 0px;
+    padding: 25px 0px;
 }
 
 section.no-padding {
@@ -1527,7 +1535,7 @@ section.small-section {
 /* Sections heading */
 
 .section-heading {
-    margin-bottom: 100px;
+    /* margin-bottom: 100px; */
     text-align: center;
 }
 
@@ -1570,7 +1578,10 @@ section.small-section {
 
 
 /* elements page */
-
+.row{
+    margin-right: 0px;
+    margin-left: 0px;
+}
 #elements .row {
     margin-right: 0px;
     margin-left: 0px;
