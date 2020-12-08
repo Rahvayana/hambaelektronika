@@ -55,7 +55,7 @@
             <div class="navbar-brand navbar-brand-centered page-scroll">
                <a href="#page-top">
                   <!-- logo  -->
-                  <img src="img/download.png" class="img-responsive" alt="">
+                  <img src="img/download.webp" class="img-responsive" alt="">
                </a>
             </div>
          </div>
@@ -105,7 +105,7 @@
       <div class="container">
          <div class="col-md-4 text-center">
             <!-- Footer logo -->
-            <img src="{{asset('img/download.png')}}" alt="" class="center-block img-responsive">
+            <img src="{{asset('img/download.webp')}}" alt="" class="center-block img-responsive">
          </div>
          <!-- /.col-md-4 -->
          <div class="col-md-4 text-center res-margin">

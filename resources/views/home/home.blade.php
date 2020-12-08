@@ -11,7 +11,7 @@
    <!--Slider -->
    <div class="slider">
       <!-- Slide 0 -->
-      <div class="slide slide-0 active" style="background-image:url('img/slider0.jpg')">
+      <div class="slide slide-0 active" style="background-image:url('img/slider0.webp')">
          <div class="slide__bg"></div>
          <div class="slide__content">
             <div class="slide__overlay">
@@ -27,7 +27,7 @@
          </div>
       </div>
       <!-- Slide 1 -->
-      <div class="slide slide-1" style="background-image:url('img/slider1.jpg')">
+      <div class="slide slide-1" style="background-image:url('img/slider1.webp')">
          <div class="slide__bg"></div>
          <div class="slide__content">
             <div class="slide__overlay">
@@ -43,7 +43,7 @@
          </div>
       </div>
       <!-- Slide 2 -->
-      <div class="slide slide-2" style="background-image:url('img/slider2.jpg')">
+      <div class="slide slide-2" style="background-image:url('img/slider2.webp')">
          <div class="slide__bg"></div>
          <div class="slide__content">
             <div class="slide__overlay">
@@ -80,7 +80,7 @@
                   <div class="icon">
                      <!-- icon -->
                      <div class="image">
-                        <img src="img/laptop.jpg" class="img-responsive" alt="">
+                        <img src="img/laptop.webp" class="img-responsive" alt="">
                      </div>
                      <div class="info">
                         <h4>Laptop & Komputer</h4>
@@ -99,7 +99,7 @@
                   <div class="icon">
                      <!-- icon -->
                      <div class="image">
-                        <img src="img/printer.jpg" class="img-responsive" alt="">
+                        <img src="img/printer.webp" class="img-responsive" alt="">
                      </div>
                      <div class="info">
                         <h4>Printer</h4>
@@ -118,7 +118,7 @@
                   <div class="icon">
                      <!-- icon -->
                      <div class="image">
-                        <img src="img/part.jpg" class="img-responsive" alt="">
+                        <img src="img/part.webp" class="img-responsive" alt="">
                      </div>
                      <div class="info">
                         <h4>Part Komputer</h4>
@@ -137,7 +137,7 @@
                   <div class="icon">
                      <!-- icon -->
                      <div class="image">
-                        <img src="img/service.jpg" class="img-responsive" alt="">
+                        <img src="img/service.webp" class="img-responsive" alt="">
                      </div>
                      <div class="info">
                         <h4>Services</h4>
@@ -156,7 +156,7 @@
                   <div class="icon">
                      <!-- icon -->
                      <div class="image">
-                        <img src="img/cek_service.jpg" class="img-responsive" alt="">
+                        <img src="img/cek_service.webp" class="img-responsive" alt="">
                      </div>
                      <div class="info">
                         <h4>Cek Service</h4>
@@ -248,7 +248,7 @@
 <!-- /row -->
 <div class="container-fluid">
    <!-- Section Call to action -->
-   <section class="call-to-action small-section bg1" data-stellar-background-ratio="0.2">
+   <section class="call-to-action small-section bg1" >
       <div class="container text-center">
          <!-- well -->
          <div class="col-md-5 bg-darkcolor well">
@@ -296,12 +296,12 @@
 <!-- callout-->
 <div class="text-center bg-lightcolor" style="padding: 10px; margin: 10px;">
    <h3>~DAFTAR MERK~</h3>
-   <img src="{{asset('img/asus.png')}}" class="logo-merk" alt="">
-   <img src="{{asset('img/samsung.png')}}" class="logo-merk" alt="">
-   <img src="{{asset('img/lenovo.png')}}" class="logo-merk" alt="">
-   <img src="{{asset('img/seagate.png')}}" class="logo-merk" alt="">
-   <img src="{{asset('img/acer.png')}}" class="logo-merk" alt="">
-   <img src="{{asset('img/toshiba.png')}}" class="logo-merk" alt="">
+   <img src="{{asset('img/asus.webp')}}" class="logo-merk" alt="">
+   <img src="{{asset('img/samsung.webp')}}" class="logo-merk" alt="">
+   <img src="{{asset('img/lenovo.webp')}}" class="logo-merk" alt="">
+   <img src="{{asset('img/seagate.webp')}}" class="logo-merk" alt="">
+   <img src="{{asset('img/acer.webp')}}" class="logo-merk" alt="">
+   <img src="{{asset('img/toshiba.webp')}}" class="logo-merk" alt="">
 </div>
 <!-- /callout -->
 <!-- Section Ends-->

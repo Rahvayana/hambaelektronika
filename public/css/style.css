@@ -646,7 +646,7 @@ ul.slider-pagi {
 
 
 /* ===========================
- Stats 
+ Stats
 ============================ */
 
 #stats .numscroller {
@@ -680,7 +680,7 @@ ul.slider-pagi {
 
 
 /* ===========================
- Features 
+ Features
 ============================ */
 
 .features {
@@ -704,13 +704,6 @@ ul.slider-pagi {
 /*===========================
   Call to action
 ============================ */
-
-.bg1 {
-    background: url(../img/callout1.jpg) no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
-
 
 /* ===========================
  Reviews
@@ -2431,13 +2424,6 @@ blockquote:before {
 
 
 /* BG Pattern */
-
-.bg-pattern {
-    background-image: url(../img/illustrations/cartoonbones1.png), url(../img/illustrations/cartoonbones2.png);
-    background-repeat: no-repeat, no-repeat;
-    background-position: left, right;
-}
-
 
 /* Sidebar */
 
