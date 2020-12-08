@@ -38,11 +38,11 @@
 
 <body id="page-top">
    <!-- Preloader -->
-   <div id="preloader">
+   {{-- <div id="preloader">
       <div class="spinner">
          <div class="bounce1"></div>
       </div>
-   </div>
+   </div> --}}
    <!-- Preloader ends -->
    <!-- Preloader ends -->
    <nav class="navbar navbar-custom navbar-fixed-top">
